@@ -1,7 +1,7 @@
 # Mobile-Price-Range-Prediction
 In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices. tive is to find out some relation between features of a mobile phone(eg:- RAM, Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is.
 
-# Data Description -
+# Data Description 
 Battery_power - Total energy a battery can store in one time measured in mAh
 
 Blue - Has bluetooth or not
@@ -43,4 +43,4 @@ Touch_screen - Has touch screen or not
 Wifi - Has wifi or not
 
 Price_range - This is the target variable with value of 0(low cost), 1(medium cost),
-2(high cost) and 3(very high cost)
+2(high cost) and 3(very high cost).
