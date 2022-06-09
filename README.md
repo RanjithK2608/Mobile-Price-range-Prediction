@@ -3,11 +3,17 @@ In the competitive mobile phone market companies want to understand sales data o
 
 # Data Description -
 Battery_power - Total energy a battery can store in one time measured in mAh
+
 Blue - Has bluetooth or not
+
 Clock_speed - speed at which microprocessor executes instructions
+
 Dual_sim - Has dual sim support or not
+
 Fc - Front Camera mega pixels
+
 Four_g - Has 4G or not
+
 Int_memory - Internal Memory in Gigabytes
 M_dep - Mobile Depth in cm
 Mobile_wt - Weight of mobile phone
